@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # InvoicesInstant
 It's an invoices collecting system using laravel framework
+I have used a dashboard for the frontend and it helps me in all the styling, and i have used some libraries for authentictaion and for charts also.
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
